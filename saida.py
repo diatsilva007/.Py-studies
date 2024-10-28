@@ -1,3 +1,5 @@
+# Saida de dados com a função print e f-strings
+
 print ("Olá, seja bem vinda(o)!\n")
 
 print (f"O valor inteiro em decimal é:{10: d}")
